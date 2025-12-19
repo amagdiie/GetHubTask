@@ -27,3 +27,12 @@ This is a small, production-quality Android application that authenticates with 
 1. **Clone the repository**
 git clone https://github.com/<your-username>/<repository>.git
 cd <repository>
+
+---
+
+## Screen Shots
+
+![Screenshot_20251219_214530_KfhGitHub 1](https://github.com/user-attachments/assets/e2cee9ea-f486-4bb7-ae23-109799b67a12)
+![Screenshot_20251219_214559_KfhGitHub 1](https://github.com/user-attachments/assets/f3087ba3-f1ce-4265-afb6-41fee9ab286c)
+![Screenshot_20251219_214543_Samsung_Internet 1](https://github.com/user-attachments/assets/987776fb-82e7-4b65-8a8e-dea59c66dbc4)
+
